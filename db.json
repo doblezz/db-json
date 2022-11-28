@@ -3,6 +3,7 @@
         {
             "id": 1,
             "title": "Feliz dia nuestro presidente",
+            "date": "28/11/2022",
             "categoria": "Finanzas",
             "autor": "Quezada",
             "link": "feliz-dia-nuestro-presidente",
@@ -12,6 +13,7 @@
         {
             "id": 2,
             "title": "Angel, Gano la loteria en SD",
+            "date": "28/11/2022",
             "categoria": "Noticias",
             "autor": "Quezada",
             "link": "angel-Gano-la-loteria-en-sd",
@@ -21,6 +23,7 @@
         {
             "id": 3,
             "title": "Caida del bitcoin",
+            "date": "28/11/2022",
             "categoria": "Novedades",
             "autor": "Quezada",
             "link": "caida-del-bitcoin",
@@ -30,6 +33,7 @@
         {
             "id": 4,
             "title": "La nuevas monedas del reyno unido",
+            "date": "28/11/2022",
             "categoria": "Noticias",
             "autor": "Quezada",
             "link": "las-nuevas-monedas-del-reyno-unido",
