@@ -7,7 +7,7 @@
             "categoria": "Finanzas",
             "autor": "Quezada",
             "link": "feliz-dia-nuestro-presidente",
-            "body": "'<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.  Voluptas asperiores vel soluta voluptate maiores praesentium odit quam ad magni, placeat earum explicabo quidem harum ducimus sit quasi aperiam nemo facere.'</p>"
+            "body": "<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.  Voluptas asperiores vel soluta voluptate maiores praesentium odit quam ad magni, placeat earum explicabo quidem harum ducimus sit quasi aperiam nemo facere.'</p>"
     
         },
         {
@@ -17,7 +17,7 @@
             "categoria": "Noticias",
             "autor": "Quezada",
             "link": "angel-Gano-la-loteria-en-sd",
-            "body": "'<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.  Voluptas asperiores vel soluta voluptate maiores praesentium odit quam ad magni, placeat earum explicabo quidem harum ducimus sit quasi aperiam nemo facere.'</p>"
+            "body": "<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.  Voluptas asperiores vel soluta voluptate maiores praesentium odit quam ad magni, placeat earum explicabo quidem harum ducimus sit quasi aperiam nemo facere.</p>"
     
         },
         {
@@ -27,7 +27,7 @@
             "categoria": "Novedades",
             "autor": "Quezada",
             "link": "caida-del-bitcoin",
-            "body": "'<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.  Voluptas asperiores vel soluta voluptate maiores praesentium odit quam ad magni, placeat earum explicabo quidem harum ducimus sit quasi aperiam nemo facere.'</p>"
+            "body": "<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.  Voluptas asperiores vel soluta voluptate maiores praesentium odit quam ad magni, placeat earum explicabo quidem harum ducimus sit quasi aperiam nemo facere.</p>"
     
         },
         {
@@ -37,7 +37,7 @@
             "categoria": "Noticias",
             "autor": "Quezada",
             "link": "las-nuevas-monedas-del-reyno-unido",
-            "body": "'<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.  Voluptas asperiores vel soluta voluptate maiores praesentium odit quam ad magni, placeat earum explicabo quidem harum ducimus sit quasi aperiam nemo facere.'</p>"
+            "body": "<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.  Voluptas asperiores vel soluta voluptate maiores praesentium odit quam ad magni, placeat earum explicabo quidem harum ducimus sit quasi aperiam nemo facere.</p>"
         }
     ]
 }
