@@ -27,13 +27,13 @@
             "body": "<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.  Voluptas asperiores vel soluta voluptate maiores praesentium odit quam ad magni, placeat earum explicabo quidem harum ducimus sit quasi aperiam nemo facere.</p>"
     
         },
-          {
+        {
             "id": 4,
             "title": "La nuevas monedas del reyno unido",
             "categoria": "Noticias",
             "autor": "Quezada",
             "link": "las-nuevas-monedas-del-reyno-unido",
             "body": "<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.  Voluptas asperiores vel soluta voluptate maiores praesentium odit quam ad magni, placeat earum explicabo quidem harum ducimus sit quasi aperiam nemo facere.</p>"
-  }
+        }
     ]
 }
